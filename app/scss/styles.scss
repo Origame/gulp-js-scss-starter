@@ -1,0 +1,17 @@
+// styles.scss
+.testing {
+  width: percentage(5/7);
+}
+
+p{
+	box-sizing: border-box;
+}
+
+$red: #c00;
+body{
+	color: $red;
+}
+
+img{
+	max-width: 1400px;
+}

@@ -1,0 +1,36 @@
+{
+  "name": "mbv2",
+  "version": "1.0.0",
+  "description": "My gulp JS/SCSS starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "log ERROR TEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Origame/gulp-js-scss-starter.git"
+  },
+  "keywords": [
+    "gulp",
+    "starter",
+    "kit"
+  ],
+  "author": "Marie Baudlot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Origame/gulp-js-scss-starter/issues"
+  },
+  "homepage": "https://github.com/Origame/gulp-js-scss-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^1.2.2"
+  }
+}
